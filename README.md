@@ -1,2 +1,2 @@
-# county_geo_json
+# CountyGeoJsonCDN
 GeoJson data for every state in the United States accessed using state fip code
